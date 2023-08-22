@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Naylimar Alvarez Cermeño
-- 👀 I’m interested in growing as a web developer and continue learning with each project.
-- 🌱 I’m currently learning about web development in Laboratoria.
-- 💞️ I’m looking to collaborate web development projects.
-- 📫 How to reach me on naylimar27@gmail.com
+- 👋 Hola, soy Naylimar Alvarez Cermeño
+- 👀 Estoy interesada en crecer como web developer y continuear aprendiendo con cada proyecto.
+- 🌱 En este momento me encuentro estudiando en Laboratoria.
+- 💞️ Estoy buscando colaborar en proyectos de desarrollo web.
+- 📫 Contáctame en naylimar27@gmail.com
 
 <!---
 Nayde227/Nayde227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
