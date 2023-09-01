@@ -1,6 +1,7 @@
 ![Imagen de Portada](https://media.licdn.com/dms/image/D4E16AQGigXQRyYMBYA/profile-displaybackgroundimage-shrink_350_1400/0/1689548894494?e=1698883200&v=beta&t=USlXaaF60Me6cCiWOjPmm4_2qVqM_-qxn4c4q2KSGm0)
+# Hola, bienvenido a mi perfil
 ### About Me
-- 👋 Hola, soy Naylimar Alvarez Cermeño
+- 👋 Soy Naylimar Alvarez Cermeño
 - 👀 Estoy interesada en crecer como web developer y continuar aprendiendo con cada proyecto.
 - 🌱 En este momento me encuentro estudiando en Laboratoria.
 - 💞️ Estoy buscando colaborar en proyectos de desarrollo web.
