@@ -3,7 +3,7 @@
 ### About Me
 - 👋 Soy Naylimar Alvarez Cermeño
 - 👀 Estoy interesada en crecer como web developer y continuar aprendiendo con cada proyecto.
-- 🌱 En este momento me encuentro estudiando más acerca de React .
+- 🌱 En este momento me encuentro estudiando más acerca de React.
 - 💞️ Estoy buscando colaborar en proyectos de desarrollo web.
 - ⚡ Fun fact: Toco violín desde los 5 años.
 - 📫 Contáctame en naylimar27@gmail.com
